@@ -4,7 +4,12 @@
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
 ## Problem Statement and Dataset
+The project aims to build and evaluate an RNN-based sequence-to-sequence model that transliterates words from Roman script into a native language script using deep learning.
 
+## DATASET:
+
+<img width="653" height="471" alt="image" src="https://github.com/user-attachments/assets/a25f6ce2-e0ce-4612-a8fd-3da34c919b69" />
+<img width="657" height="272" alt="image" src="https://github.com/user-attachments/assets/c9501d93-54b5-4270-b04b-17b8a8bafb3b" />
 
 
 ## DESIGN STEPS
